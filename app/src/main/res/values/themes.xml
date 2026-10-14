@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The UI is drawn with Jetpack Compose; this theme only sets the window background. -->
+    <style name="Theme.BunTap" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/bun_background</item>
+    </style>
+</resources>

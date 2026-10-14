@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BunTap</string>
+    <string name="accessibility_service_label">BunTap automation</string>
+    <string name="accessibility_service_description">BunTap uses this service only to perform the taps, key presses and text input that you configure in BunTap (auto clicker, visual targets and routines). It does not read, store or send the content of other apps. You can turn it off here at any time, and every automation can be stopped with the emergency stop button.</string>
+</resources>

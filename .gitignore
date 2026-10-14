@@ -1,0 +1,19 @@
+# Android / Gradle build outputs
+*.iml
+.gradle
+.kotlin
+/local.properties
+/.idea
+.DS_Store
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Raw test output dumps (summaries live in docs/TEST_PLAN.md)
+docs/test-results/
+
+# Keystore / signing
+*.jks
+*.keystore
